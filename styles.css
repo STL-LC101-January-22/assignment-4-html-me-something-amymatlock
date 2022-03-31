@@ -1,1 +1,75 @@
 /* Write your CSS here! */
+body {
+    background-color: rgb(129, 129, 231);
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+    display: block;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-top: 8px;
+    padding-top: 8px;
+    margin-bottom: 8px;
+}
+
+
+
+header {
+    font-size: 10px;
+    margin-top: 0px;
+    text-align: center;
+}
+
+nav {
+    font-size: 20px;
+    color: rgb(118, 172, 122);
+    margin-top: 20px;
+    margin-bottom: 0px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+h1 {
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 40px;
+}
+
+h2 {
+    color: rgb(25, 71, 28);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 26px;
+}
+
+p {
+    font-size: 20px;
+    color: rgb(57, 41, 95);
+    margin-top: 20px;
+    margin-bottom: 0px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+footer {
+    position: fixed;
+    bottom: 0px;
+    font-size: 16px;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 4px;
+}
+
+#mainHeading {
+    color: red;
+ }
+
+ .funParagraph {
+    color: green;
+ }
